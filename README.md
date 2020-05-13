@@ -1,5 +1,5 @@
 # CPAL's CRI-index-2.0
-Created a child resource index score for 1172 census tracts in Dallas, Collin, Tarrant and Denton based on community, economics, education, family, and health. It provides a precise measure for community strengths and weaknesses to policymakers, stakeholders, and residents to make data-driven decisions.
+Created a child resource index health score for 1172 census tracts in Dallas, Collin, Tarrant and Denton. It provides a precise measure for community strengths and weaknesses to policymakers, stakeholders, and residents to make data-driven decisions.
 
 # Installation
 pandas    
