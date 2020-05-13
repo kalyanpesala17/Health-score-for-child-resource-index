@@ -10,8 +10,8 @@ statsmodels.api
 sklearn     
 
 # Project Motivation
-To create a child resource index score for 1172 census tracts in Dallas. Collin, Tarrant and Denton based on community, economics, education, family, and health indicators and visualize in tableau dashboard.       
-Implement individual weightage for each indicator based on how strongly the indicator predicts health and economic outcomes, which improves the predictive validity of the index.  
+To create a health score in child resource index score for 1172 census tracts in Dallas. Collin, Tarrant and Denton based on health indicators and visualize in tableau dashboard.       
+Implement individual weightage for each indicator based on how strongly the indicator predicts health outcomes, which improves the predictive validity of the index.  
 
 # Results
    
